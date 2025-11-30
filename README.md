@@ -1,1 +1,105 @@
-# g4jILPZR1.mp4
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ready to play on you</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffffff;
+            padding: 20px;
+        }
+        .video-title {
+            font-size: 1em;
+            font-weight: bold;
+            margin-bottom: 18px;
+            letter-spacing: 1px;
+            color: black;
+        }
+        .video-wrapper {
+            position: relative;
+            width: 100%;
+            max-width: 720px;
+            margin: 0 auto;
+        }
+        video {
+            width: 100%;
+            max-width: 100%;
+            border-radius: 10px;
+            display: block;
+        }
+        .ad-banner-inside {
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 320px;
+            height: 50px;
+            background: rgba(255,255,255,0.92);
+            border-radius: 10px 10px 0 0;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 2;
+            overflow: hidden;
+        }
+        @media (max-width: 400px) {
+            .ad-banner-inside {
+                width: 95vw;
+                height: 40px;
+                font-size: 0.85em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="video-title">Ready to play on you<span aria-label="smile" role="img"></span></div>
+    <center><script type="text/javascript">
+	atOptions = {
+		'key' : 'ffc3dc24637d7b0c6340ccc78971ff88',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/ffc3dc24637d7b0c6340ccc78971ff88/invoke.js"></script>
+	<br>
+    <div class="video-wrapper">
+        <video autoplay loop playsinline controls poster="https://cdn.aceimg.com/774bf5824.png">
+            <source src="https://cdn.videy.co/g4jILPZR1.mp4" type="video/mp4">
+        </video>
+		<div style="text-align: center; margin: 30px 0;">
+  <a href="https://www.effectivegatecpm.com/srkw9uk9?key=e4baf80f8d69919fffaeb26911e944bd" style="display: inline-flex; align-items: center; gap: 10px; background-color: #000000; color: white; font-size: 20px; font-weight: bold; padding: 16px 28px; border-radius: 8px; text-decoration: none; box-shadow: 0 0 15px rgba(255 255 255 / 80%); animation: blink 1.5s infinite;">▶︎ Full HD Video
+  </a>
+</div>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'ffc3dc24637d7b0c6340ccc78971ff88',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/ffc3dc24637d7b0c6340ccc78971ff88/invoke.js"></script>
+<div id="container-72bc89b8f0de2dd4533b963c052fcf84"></div>
+    </div>
+</body>
+</html>
+   <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4953612,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4953612&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
